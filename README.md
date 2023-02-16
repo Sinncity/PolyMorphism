@@ -1,2 +1,2 @@
 # PolyMorphism
-Understanding th concepts of polyMorphism In C#
+Understanding the concepts of polyMorphism In C#
